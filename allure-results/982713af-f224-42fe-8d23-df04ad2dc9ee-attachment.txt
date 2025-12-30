@@ -1,0 +1,224 @@
+[INFO ] 2025-05-19 14:09:13.743 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.7.4.20231015[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-19 14:09:15.233 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2025-05-19 14:09:15.234 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2025-05-19 14:09:15.353 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2025-05-19 14:09:15.376 [main] ReportManager - TestNG run detected...
+[INFO ] 2025-05-19 14:09:15.621 [main] Utils - [TestNG] Running:
+  C:\Users\Mahmoud\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[INFO ] 2025-05-19 14:09:15.656 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-19 14:09:15.831 [main] ReportManager - Initializing Important Links...
+[INFO ] 2025-05-19 14:09:15.842 [main] ReportManager - Initializing Properties...
+[INFO ] 2025-05-19 14:09:15.964 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of setup browse configuration method                                             
+                                               'AdminPages.Admin.Staff.ActionStaff_TC.setupBrowse'                                               
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-19 14:09:15.998 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2025-05-19 14:09:16.017 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized, --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Calculat..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --disable-features=Autofill..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-features=MediaRouter, --disable-features=Translate, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-features=AvoidUnn..., --disable-features=Certific..., --disable-sync, --disable-features=Optimiza..., --disable-features=DialMedi..., --disable-features=GlobalMe..., --disable-features=Improved..., --disable-features=LazyFram..., --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --disable-features=Interest...], extensions: [], prefs: {download.default_directory: C:\Users\Mahmoud\Desktop\Up..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: none, timeouts: {pageLoad: 60000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2025-05-19 14:09:16.019 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2025-05-19 14:09:16.019 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[WARN ] 2025-05-19 14:09:22.465 [main] ReportManager - May 19, 2025 2:09:22 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2025-05-19 14:09:22.465 [main] ReportManager - WARNING: Unable to find CDP implementation matching 136
+[WARN ] 2025-05-19 14:09:22.466 [main] ReportManager - May 19, 2025 2:09:22 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+[WARN ] 2025-05-19 14:09:22.467 [main] ReportManager - WARNING: Unable to find version of CDP to use for 136.0.7103.114. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.13.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+[INFO ] 2025-05-19 14:09:22.474 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2025-05-19 14:09:22.538 [main] ReportManager - Initial window size: (1936, 1056)
+[INFO ] 2025-05-19 14:09:22.550 [main] ReportManager - Window size after SWD Maximize: (1936, 1056)
+[INFO ] 2025-05-19 14:09:22.705 [main] ReportManager - Window size after Toolkit: (1920, 1080)
+[INFO ] 2025-05-19 14:09:22.800 [main] ReportManager - Maximize window "New screen size is now: (1920, 1080)".
+[INFO ] 2025-05-19 14:09:22.852 [main] ReportManager - Target URL: "http://192.168.1.70"
+[INFO ] 2025-05-19 14:09:22.905 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2025-05-19 14:09:23.822 [main] ReportManager - Navigate to url "http://192.168.1.70".
+[INFO ] 2025-05-19 14:09:28.834 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 Starting execution of sign configuration method                                                 
+                                                  'AdminPages.Admin.Staff.ActionStaff_TC.sign'                                                  
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-19 14:09:29.255 [main] ReportManager - Type "odeysysadmin" into "Username *".
+[INFO ] 2025-05-19 14:09:29.508 [main] ReportManager - Type "qqE6)Cxp6>B8" into "Password * Forgot Password?".
+[INFO ] 2025-05-19 14:09:29.769 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:29.858 [main] ReportManager - Click "Login".
+[INFO ] 2025-05-19 14:09:30.017 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                        Test Method: 'AdminPages.Admin.Staff.ActionStaff_TC.CreateStaff'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-19 14:09:31.890 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:31.998 [main] ReportManager - Click "Admin".
+[INFO ] 2025-05-19 14:09:35.340 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:35.521 [main] ReportManager - Click "Staff".
+[INFO ] 2025-05-19 14:09:38.794 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:38.947 [main] ReportManager - Click "By.xpath: //span[@style="margin-inline-end: 10px;"]".
+[INFO ] 2025-05-19 14:09:39.962 [main] ReportManager - Start Method : Adding a new staff
+[INFO ] 2025-05-19 14:09:40.291 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:40.382 [main] ReportManager - Click "By.xpath: //p-dropdown[.//input[@id="id-Usertype"]]".
+[INFO ] 2025-05-19 14:09:40.614 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:40.719 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'StaffUser')]".
+[INFO ] 2025-05-19 14:09:42.051 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:42.233 [main] ReportManager - Click "By.xpath: //p-multiselect[.//input[@name='Operating country']]".
+[INFO ] 2025-05-19 14:09:42.485 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:42.597 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'EgyptLive')]".
+[INFO ] 2025-05-19 14:09:43.957 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:44.210 [main] ReportManager - Click "By.xpath: //p-multiselect[.//input[@id="id-Branch"]]".
+[INFO ] 2025-05-19 14:09:44.467 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:44.568 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'Uplif1_Mahmoud Alaa')]".
+[INFO ] 2025-05-19 14:09:45.847 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:46.056 [main] ReportManager - Click "By.xpath: //p-multiselect[.//input[@id="id-Department"]]".
+[INFO ] 2025-05-19 14:09:46.545 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:46.730 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'TEST')]".
+[INFO ] 2025-05-19 14:09:48.032 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:48.210 [main] ReportManager - Click "By.xpath: //p-multiselect[.//input[@id="id-Role"]]".
+[INFO ] 2025-05-19 14:09:48.465 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:48.614 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'Admin Role')]".
+[INFO ] 2025-05-19 14:09:48.835 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:48.923 [main] ReportManager - Click "By.xpath: //span[@class="p-multiselect-close-icon pi pi-times"]".
+[INFO ] 2025-05-19 14:09:50.266 [main] ReportManager - Type "Mahmoud Alaa" into "Employee name *".
+[INFO ] 2025-05-19 14:09:51.699 [main] ReportManager - Type "mahmoud.alaa@tildetech.ae" into "Employee email *".
+[INFO ] 2025-05-19 14:09:53.118 [main] ReportManager - Type "1030902972" into "+20 2 34567890".
+[INFO ] 2025-05-19 14:09:54.477 [main] ReportManager - Type "1030902972" into "+20 2 34567890".
+[INFO ] 2025-05-19 14:09:55.743 [main] ReportManager - Type "Mahmoud Alaa" into "Username *".
+[INFO ] 2025-05-19 14:09:57.040 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:57.199 [main] ReportManager - Click "By.xpath: //p-dropdown[.//input[@id="id-ApproverList"]]".
+[INFO ] 2025-05-19 14:09:57.422 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:57.533 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'No Approver')]".
+[INFO ] 2025-05-19 14:09:58.805 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:58.867 [main] ReportManager - Click "By.xpath: //div[@class="p-checkbox-box"]".
+[INFO ] 2025-05-19 14:09:58.867 [main] ReportManager - Start Method : click on UnderCut
+[INFO ] 2025-05-19 14:09:59.069 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:59.132 [main] ReportManager - Click "By.xpath: //p-radiobutton[.//input[@id="id-Optiontoundercut-Yes"]]".
+[INFO ] 2025-05-19 14:09:59.317 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:09:59.402 [main] ReportManager - Click "Send for Approval".
+[INFO ] 2025-05-19 14:11:02.516 [main] ReportManager - Expected condition failed: waiting for com.shaft.gui.element.internal.ElementActionsHelper$$Lambda/0x000001ea5d4d19e8@7be3a837 (tried for 60 second(s) with 100 milliseconds interval)
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: driver.version: unknown || java.util.concurrent.ExecutionException: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p-radiobutton[.//input[@id="id-Status-Inactive"]]"}
+[INFO ] 2025-05-19 14:11:03.659 [main] ReportManager - Successfully created attachment 'Screenshot - 1747653062776_CreateStaff_Click_failed'
+[INFO ] 2025-05-19 14:11:03.661 [main] ReportManager - Successfully created attachment 'Element Action Exception - Click - Stacktrace'
+[INFO ] 2025-05-19 14:11:03.665 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: CreateStaff'
+[INFO ] 2025-05-19 14:11:03.665 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'AdminPages.Admin.Staff.ActionStaff_TC.CreateStaff'                             
+                                                              Test Status: 'Failed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-19 14:11:03.830 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                         Starting execution of navigate back to url configuration method                                         
+                                            'AdminPages.Admin.Staff.ActionStaff_TC.navigateBackToURL'                                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-19 14:11:03.854 [main] ReportManager - Target URL: "http://192.168.1.70"
+[INFO ] 2025-05-19 14:11:03.889 [main] ReportManager - Initial URL: "http://192.168.1.70/admin/staff/add"
+[INFO ] 2025-05-19 14:11:04.240 [main] ReportManager - Navigate to url "http://192.168.1.70".
+[ERROR] 2025-05-19 14:11:04.254 [main] AllureLifecycle - Could not add attachment: no test is running
+[INFO ] 2025-05-19 14:11:04.257 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: navigateBackToURL'
+[INFO ] 2025-05-19 14:11:04.262 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 1' test cases in the current suite                                        
+                                        Test Method: 'AdminPages.Admin.Staff.ActionStaff_TC.CreateStaff'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-19 14:11:04.936 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:05.064 [main] ReportManager - Click "Admin".
+[INFO ] 2025-05-19 14:11:08.380 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:08.542 [main] ReportManager - Click "Staff".
+[INFO ] 2025-05-19 14:11:11.829 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:12.019 [main] ReportManager - Click "By.xpath: //span[@style="margin-inline-end: 10px;"]".
+[INFO ] 2025-05-19 14:11:13.023 [main] ReportManager - Start Method : Adding a new staff
+[INFO ] 2025-05-19 14:11:13.316 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:13.389 [main] ReportManager - Click "By.xpath: //p-dropdown[.//input[@id="id-Usertype"]]".
+[INFO ] 2025-05-19 14:11:13.584 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:13.678 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'StaffUser')]".
+[INFO ] 2025-05-19 14:11:14.953 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:15.123 [main] ReportManager - Click "By.xpath: //p-multiselect[.//input[@name='Operating country']]".
+[INFO ] 2025-05-19 14:11:15.358 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:15.461 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'EgyptLive')]".
+[INFO ] 2025-05-19 14:11:16.758 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:17.034 [main] ReportManager - Click "By.xpath: //p-multiselect[.//input[@id="id-Branch"]]".
+[INFO ] 2025-05-19 14:11:17.288 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:17.376 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'Uplif1_Mohamed Gamal ElMaghraby')]".
+[INFO ] 2025-05-19 14:11:18.619 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:18.777 [main] ReportManager - Click "By.xpath: //p-multiselect[.//input[@id="id-Department"]]".
+[INFO ] 2025-05-19 14:11:19.237 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:19.346 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'TEST')]".
+[INFO ] 2025-05-19 14:11:20.640 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:20.784 [main] ReportManager - Click "By.xpath: //p-multiselect[.//input[@id="id-Role"]]".
+[INFO ] 2025-05-19 14:11:21.039 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:21.242 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'Admin Role')]".
+[INFO ] 2025-05-19 14:11:21.457 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:21.540 [main] ReportManager - Click "By.xpath: //span[@class="p-multiselect-close-icon pi pi-times"]".
+[INFO ] 2025-05-19 14:11:22.823 [main] ReportManager - Type "Mohamed Gamal ElMaghraby" into "Employee name *".
+[INFO ] 2025-05-19 14:11:24.194 [main] ReportManager - Type "mohamed.abdelfattah@tildetech.ae" into "Employee email *".
+[INFO ] 2025-05-19 14:11:25.604 [main] ReportManager - Type "1063683757" into "+20 2 34567890".
+[INFO ] 2025-05-19 14:11:26.980 [main] ReportManager - Type "1063683757" into "+20 2 34567890".
+[INFO ] 2025-05-19 14:11:28.413 [main] ReportManager - Type "Mohamed Gamal ElMaghraby" into "Username *".
+[INFO ] 2025-05-19 14:11:29.661 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:29.744 [main] ReportManager - Click "By.xpath: //p-dropdown[.//input[@id="id-ApproverList"]]".
+[INFO ] 2025-05-19 14:11:29.953 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:30.039 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'No Approver')]".
+[INFO ] 2025-05-19 14:11:31.388 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:31.565 [main] ReportManager - Click "By.xpath: //div[@class="p-checkbox-box"]".
+[INFO ] 2025-05-19 14:11:31.565 [main] ReportManager - Start Method : click on UnderCut
+[INFO ] 2025-05-19 14:11:31.868 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:32.055 [main] ReportManager - Click "By.xpath: //p-radiobutton[.//input[@id="id-Optiontoundercut-Yes"]]".
+[INFO ] 2025-05-19 14:11:32.337 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:32.519 [main] ReportManager - Click "Send for Approval".
+[INFO ] 2025-05-19 14:11:36.705 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:36.892 [main] ReportManager - Click "By.xpath: //p-radiobutton[.//input[@id="id-Status-Inactive"]]".
+[INFO ] 2025-05-19 14:11:37.216 [main] ReportManager - Type "Mohamed Gamal ElMaghraby" into "Staff Name".
+[INFO ] 2025-05-19 14:11:38.372 [main] ReportManager - Type "Mohamed Gamal ElMaghraby" into "User Name".
+[INFO ] 2025-05-19 14:11:38.549 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:38.615 [main] ReportManager - Click "By.xpath: //p-dropdown[.//input[@id="id-Branch"]]".
+[INFO ] 2025-05-19 14:11:42.085 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:42.157 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'Uplif1_Mohamed Gamal ElMaghraby')]".
+[INFO ] 2025-05-19 14:11:42.363 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:42.432 [main] ReportManager - Click "By.xpath: //p-multiselect[.//input[@id="id-Department"]]".
+[INFO ] 2025-05-19 14:11:42.625 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:42.690 [main] ReportManager - Click "By.xpath: //span[contains(text(), 'TEST')]".
+[INFO ] 2025-05-19 14:11:45.883 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:45.946 [main] ReportManager - Click "By.xpath: //span[@class="p-button-label"]".
+[INFO ] 2025-05-19 14:11:46.568 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:46.638 [main] ReportManager - Click "By.xpath: //i[@class="pi pi-thumbs-up"]".
+[INFO ] 2025-05-19 14:11:46.801 [main] ReportManager - Type "Approved" into "remarks...".
+[INFO ] 2025-05-19 14:11:46.986 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-05-19 14:11:47.051 [main] ReportManager - Click "By.xpath: //span[contains(text(),'Submit')]".
+[INFO ] 2025-05-19 14:11:50.059 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: CreateStaff'
+[INFO ] 2025-05-19 14:11:50.060 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                             Finished Execution of Test Method: 'AdminPages.Admin.Staff.ActionStaff_TC.CreateStaff'                             
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-19 14:11:50.074 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                         Starting execution of navigate back to url configuration method                                         
+                                            'AdminPages.Admin.Staff.ActionStaff_TC.navigateBackToURL'                                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-19 14:11:50.115 [main] ReportManager - Target URL: "http://192.168.1.70"
+[INFO ] 2025-05-19 14:11:50.156 [main] ReportManager - Initial URL: "http://192.168.1.70/admin/staff"
+[INFO ] 2025-05-19 14:11:50.419 [main] ReportManager - Navigate to url "http://192.168.1.70".
+[ERROR] 2025-05-19 14:11:50.421 [main] AllureLifecycle - Could not add attachment: no test is running
+[INFO ] 2025-05-19 14:11:50.421 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: navigateBackToURL'
+[INFO ] 2025-05-19 14:11:50.431 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-05-19 14:11:50.432 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2025-05-19 14:11:50.432 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2025-05-19 14:11:50.432 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".

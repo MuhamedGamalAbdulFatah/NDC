@@ -1,0 +1,26 @@
+[
+
+
+ {
+  "Brand": "NDC",
+  "Country": "Egy",
+  "OperatingCountry":"EgyptLive",
+  "BranchName":"NDC1_Mostdafa Elatawy" ,
+  "State": "Cairo",
+  "City": "Cairo",
+  "Address":"Cairo" ,
+  "PostOffice": "00",
+  "PhoneNo":"1111957885" ,
+  "EmailID": "mostafa.elafdsdtawy@tildetech.ae",
+  "Password": "123456789",
+  "Name":"Mostafa Elafsddtawy" ,
+  "Email":"mostafa.edslatfddawy@tildetech.ae",
+  "Phone": "1111957885",
+  "Creditlimit": "1000000",
+  "Topup":"1000000" ,
+  "Creditterm":"10000" ,
+  "Description": "Test",
+  "Supplierdescription":"Test"
+ }
+
+]

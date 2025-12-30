@@ -1,0 +1,68 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 1' test cases in the current suite                                        
+                                        Test Method: 'AdminPages.Admin.Staff.ActionStaff_TC.CreateStaff'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:04.0936 PM
+[ReportManager] Click "Admin". @19-05-2025 14:11:05.0064 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:08.0379 PM
+[ReportManager] Click "Staff". @19-05-2025 14:11:08.0542 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:11.0828 PM
+[ReportManager] Click "By.xpath: //span[@style="margin-inline-end: 10px;"]". @19-05-2025 14:11:12.0019 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:13.0316 PM
+[ReportManager] Click "By.xpath: //p-dropdown[.//input[@id="id-Usertype"]]". @19-05-2025 14:11:13.0389 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:13.0583 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'StaffUser')]". @19-05-2025 14:11:13.0678 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:14.0953 PM
+[ReportManager] Click "By.xpath: //p-multiselect[.//input[@name='Operating country']]". @19-05-2025 14:11:15.0122 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:15.0357 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'EgyptLive')]". @19-05-2025 14:11:15.0461 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:16.0758 PM
+[ReportManager] Click "By.xpath: //p-multiselect[.//input[@id="id-Branch"]]". @19-05-2025 14:11:17.0034 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:17.0288 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'Uplif1_Mohamed Gamal ElMaghraby')]". @19-05-2025 14:11:17.0376 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:18.0619 PM
+[ReportManager] Click "By.xpath: //p-multiselect[.//input[@id="id-Department"]]". @19-05-2025 14:11:18.0777 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:19.0237 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'TEST')]". @19-05-2025 14:11:19.0346 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:20.0640 PM
+[ReportManager] Click "By.xpath: //p-multiselect[.//input[@id="id-Role"]]". @19-05-2025 14:11:20.0784 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:21.0039 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'Admin Role')]". @19-05-2025 14:11:21.0241 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:21.0457 PM
+[ReportManager] Click "By.xpath: //span[@class="p-multiselect-close-icon pi pi-times"]". @19-05-2025 14:11:21.0539 PM
+[ReportManager] Type "Mohamed Gamal ElMaghraby" into "Employee name *". @19-05-2025 14:11:22.0823 PM
+[ReportManager] Type "mohamed.abdelfattah@tildetech.ae" into "Employee email *". @19-05-2025 14:11:24.0194 PM
+[ReportManager] Type "1063683757" into "+20 2 34567890". @19-05-2025 14:11:25.0604 PM
+[ReportManager] Type "1063683757" into "+20 2 34567890". @19-05-2025 14:11:26.0979 PM
+[ReportManager] Type "Mohamed Gamal ElMaghraby" into "Username *". @19-05-2025 14:11:28.0413 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:29.0660 PM
+[ReportManager] Click "By.xpath: //p-dropdown[.//input[@id="id-ApproverList"]]". @19-05-2025 14:11:29.0743 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:29.0953 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'No Approver')]". @19-05-2025 14:11:30.0039 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:31.0388 PM
+[ReportManager] Click "By.xpath: //div[@class="p-checkbox-box"]". @19-05-2025 14:11:31.0564 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:31.0868 PM
+[ReportManager] Click "By.xpath: //p-radiobutton[.//input[@id="id-Optiontoundercut-Yes"]]". @19-05-2025 14:11:32.0055 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:32.0337 PM
+[ReportManager] Click "Send for Approval". @19-05-2025 14:11:32.0519 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:36.0705 PM
+[ReportManager] Click "By.xpath: //p-radiobutton[.//input[@id="id-Status-Inactive"]]". @19-05-2025 14:11:36.0892 PM
+[ReportManager] Type "Mohamed Gamal ElMaghraby" into "Staff Name". @19-05-2025 14:11:37.0216 PM
+[ReportManager] Type "Mohamed Gamal ElMaghraby" into "User Name". @19-05-2025 14:11:38.0372 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:38.0548 PM
+[ReportManager] Click "By.xpath: //p-dropdown[.//input[@id="id-Branch"]]". @19-05-2025 14:11:38.0615 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:42.0085 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'Uplif1_Mohamed Gamal ElMaghraby')]". @19-05-2025 14:11:42.0157 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:42.0363 PM
+[ReportManager] Click "By.xpath: //p-multiselect[.//input[@id="id-Department"]]". @19-05-2025 14:11:42.0432 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:42.0624 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'TEST')]". @19-05-2025 14:11:42.0690 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:45.0883 PM
+[ReportManager] Click "By.xpath: //span[@class="p-button-label"]". @19-05-2025 14:11:45.0946 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:46.0568 PM
+[ReportManager] Click "By.xpath: //i[@class="pi pi-thumbs-up"]". @19-05-2025 14:11:46.0638 PM
+[ReportManager] Type "Approved" into "remarks...". @19-05-2025 14:11:46.0801 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:11:46.0986 PM
+[ReportManager] Click "By.xpath: //span[contains(text(),'Submit')]". @19-05-2025 14:11:47.0051 PM

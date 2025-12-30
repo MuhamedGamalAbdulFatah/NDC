@@ -1,0 +1,30 @@
+[
+
+  {
+    "Usertype": "StaffUser",
+    "SearchOperatingCountry": "EgyptLive",
+    "SearchBranch": "Uplif1_Mahmoud Alaa",
+    "SearchDepartment": "TEST",
+    "SearchRole": "Admin Role",
+    "EmployeeName": "Mahmoud Alaa",
+    "EmployeeEmail": "mahmoud.alaa@tildetech.ae",
+    "EmployeePhoneNo": "1030902972",
+    "EmployeeSecondaryNo": "1030902972",
+    "UserName": "Mahmoud Alaa",
+    "ApprovalList": "No Approver"
+  },
+  {
+    "Usertype": "StaffUser",
+    "SearchOperatingCountry": "EgyptLive",
+    "SearchBranch": "Uplif1_Mohamed Gamal ElMaghraby",
+    "SearchDepartment": "TEST",
+    "SearchRole": "Admin Role",
+    "EmployeeName": "Mohamed Gamal ElMaghraby",
+    "EmployeeEmail": "mohamed.abdelfattah@tildetech.ae",
+    "EmployeePhoneNo": "1063683757",
+    "EmployeeSecondaryNo": "1063683757",
+    "UserName": "Mohamed Gamal ElMaghraby",
+    "ApprovalList": "No Approver"
+  }
+
+]

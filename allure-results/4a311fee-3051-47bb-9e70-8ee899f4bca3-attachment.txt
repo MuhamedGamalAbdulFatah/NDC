@@ -1,0 +1,56 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                        Test Method: 'AdminPages.Admin.Staff.ActionStaff_TC.CreateStaff'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:31.0890 PM
+[ReportManager] Click "Admin". @19-05-2025 14:09:31.0991 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:35.0340 PM
+[ReportManager] Click "Staff". @19-05-2025 14:09:35.0520 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:38.0794 PM
+[ReportManager] Click "By.xpath: //span[@style="margin-inline-end: 10px;"]". @19-05-2025 14:09:38.0947 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:40.0291 PM
+[ReportManager] Click "By.xpath: //p-dropdown[.//input[@id="id-Usertype"]]". @19-05-2025 14:09:40.0382 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:40.0614 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'StaffUser')]". @19-05-2025 14:09:40.0716 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:42.0051 PM
+[ReportManager] Click "By.xpath: //p-multiselect[.//input[@name='Operating country']]". @19-05-2025 14:09:42.0233 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:42.0485 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'EgyptLive')]". @19-05-2025 14:09:42.0597 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:43.0957 PM
+[ReportManager] Click "By.xpath: //p-multiselect[.//input[@id="id-Branch"]]". @19-05-2025 14:09:44.0209 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:44.0467 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'Uplif1_Mahmoud Alaa')]". @19-05-2025 14:09:44.0568 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:45.0847 PM
+[ReportManager] Click "By.xpath: //p-multiselect[.//input[@id="id-Department"]]". @19-05-2025 14:09:46.0056 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:46.0545 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'TEST')]". @19-05-2025 14:09:46.0730 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:48.0032 PM
+[ReportManager] Click "By.xpath: //p-multiselect[.//input[@id="id-Role"]]". @19-05-2025 14:09:48.0209 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:48.0465 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'Admin Role')]". @19-05-2025 14:09:48.0613 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:48.0835 PM
+[ReportManager] Click "By.xpath: //span[@class="p-multiselect-close-icon pi pi-times"]". @19-05-2025 14:09:48.0923 PM
+[ReportManager] Type "Mahmoud Alaa" into "Employee name *". @19-05-2025 14:09:50.0266 PM
+[ReportManager] Type "mahmoud.alaa@tildetech.ae" into "Employee email *". @19-05-2025 14:09:51.0699 PM
+[ReportManager] Type "1030902972" into "+20 2 34567890". @19-05-2025 14:09:53.0117 PM
+[ReportManager] Type "1030902972" into "+20 2 34567890". @19-05-2025 14:09:54.0477 PM
+[ReportManager] Type "Mahmoud Alaa" into "Username *". @19-05-2025 14:09:55.0742 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:57.0040 PM
+[ReportManager] Click "By.xpath: //p-dropdown[.//input[@id="id-ApproverList"]]". @19-05-2025 14:09:57.0198 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:57.0422 PM
+[ReportManager] Click "By.xpath: //span[contains(text(), 'No Approver')]". @19-05-2025 14:09:57.0532 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:58.0804 PM
+[ReportManager] Click "By.xpath: //div[@class="p-checkbox-box"]". @19-05-2025 14:09:58.0866 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:59.0069 PM
+[ReportManager] Click "By.xpath: //p-radiobutton[.//input[@id="id-Optiontoundercut-Yes"]]". @19-05-2025 14:09:59.0132 PM
+[ReportManager] Moved the mouse to the middle of the element. @19-05-2025 14:09:59.0317 PM
+[ReportManager] Click "Send for Approval". @19-05-2025 14:09:59.0402 PM
+[ReportManager] Expected condition failed: waiting for com.shaft.gui.element.internal.ElementActionsHelper$$Lambda/0x000001ea5d4d19e8@7be3a837 (tried for 60 second(s) with 100 milliseconds interval)
+Build info: version: '4.13.0', revision: 'ba948ece5b*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: driver.version: unknown || java.util.concurrent.ExecutionException: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p-radiobutton[.//input[@id="id-Status-Inactive"]]"} @19-05-2025 14:11:02.0515 PM
+[ReportManager] Failed to Click "By.xpath: //p-radiobutton[.//input[@id="id-Status-Inactive"]]". Root cause: "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p-radiobutton[.//input[@id="id-Status-Inactive"]]"}" @19-05-2025 14:11:03.0650 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1747653062776_CreateStaff_Click_failed' @19-05-2025 14:11:03.0659 PM
+[ReportManager] Successfully created attachment 'Element Action Exception - Click - Stacktrace' @19-05-2025 14:11:03.0661 PM

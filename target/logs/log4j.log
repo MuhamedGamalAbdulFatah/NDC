@@ -1,0 +1,68 @@
+[INFO ] 2025-06-23 14:06:59.307 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.7.4.20231015[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-06-23 14:07:01.289 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2025-06-23 14:07:01.290 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2025-06-23 14:07:01.377 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2025-06-23 14:07:01.397 [main] ReportManager - TestNG run detected...
+[INFO ] 2025-06-23 14:07:01.564 [main] Utils - [TestNG] Running:
+  C:\Users\Mohamed Zohairy\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[INFO ] 2025-06-23 14:07:01.587 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-06-23 14:07:01.680 [main] ReportManager - Initializing Important Links...
+[INFO ] 2025-06-23 14:07:01.686 [main] ReportManager - Initializing Properties...
+[INFO ] 2025-06-23 14:07:01.754 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of setup browse configuration method                                             
+                                      'AdminPages.RuleEngine.FareRules.SearchFareRuleMaster_TC.setupBrowse'                                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-06-23 14:07:01.774 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2025-06-23 14:07:01.784 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized, --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Calculat..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --disable-features=Autofill..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-features=MediaRouter, --disable-features=Translate, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-features=AvoidUnn..., --disable-features=Certific..., --disable-sync, --disable-features=Optimiza..., --disable-features=DialMedi..., --disable-features=GlobalMe..., --disable-features=Improved..., --disable-features=LazyFram..., --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --disable-features=Interest...], extensions: [], prefs: {download.default_directory: D:\Uplift11\target\download..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: none, timeouts: {pageLoad: 60000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2025-06-23 14:07:01.785 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2025-06-23 14:07:01.785 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[WARN ] 2025-06-23 14:07:04.129 [main] ReportManager - Jun 23, 2025 2:07:04 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[WARN ] 2025-06-23 14:07:04.129 [main] ReportManager - WARNING: Unable to find CDP implementation matching 137
+[WARN ] 2025-06-23 14:07:04.129 [main] ReportManager - Jun 23, 2025 2:07:04 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+[WARN ] 2025-06-23 14:07:04.129 [main] ReportManager - WARNING: Unable to find version of CDP to use for 137.0.7151.70. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.13.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+[INFO ] 2025-06-23 14:07:04.136 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2025-06-23 14:07:04.182 [main] ReportManager - Initial window size: (1936, 1048)
+[INFO ] 2025-06-23 14:07:04.192 [main] ReportManager - Window size after SWD Maximize: (1936, 1048)
+[INFO ] 2025-06-23 14:07:04.500 [main] ReportManager - Window size after Toolkit: (1920, 1080)
+[INFO ] 2025-06-23 14:07:04.515 [main] ReportManager - Maximize window "New screen size is now: (1920, 1080)".
+[INFO ] 2025-06-23 14:07:04.542 [main] ReportManager - Target URL: "http://192.168.1.95"
+[INFO ] 2025-06-23 14:07:04.581 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2025-06-23 14:07:05.552 [main] ReportManager - Navigate to url "http://192.168.1.95".
+[INFO ] 2025-06-23 14:07:10.558 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 Starting execution of sign configuration method                                                 
+                                         'AdminPages.RuleEngine.FareRules.SearchFareRuleMaster_TC.sign'                                         
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-06-23 14:07:10.769 [main] ReportManager - Type "odeysysadmin" into "Username *".
+[INFO ] 2025-06-23 14:07:10.910 [main] ReportManager - Type "qqE6)Cxp6>B8" into "Password * Forgot Password?".
+[INFO ] 2025-06-23 14:07:11.120 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-06-23 14:07:11.188 [main] ReportManager - Click "Login".
+[INFO ] 2025-06-23 14:07:13.325 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                            Test Method: 'AdminPages.RuleEngine.FareRules.SearchFareRuleMaster_TC.VerifyActiveSearch'                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-06-23 14:07:13.517 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-06-23 14:07:13.574 [main] ReportManager - Click "Rule Engine".
+[INFO ] 2025-06-23 14:07:14.962 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-06-23 14:07:15.060 [main] ReportManager - Click "By.xpath: (//img[@src="../static/img/Cancellation_icon.png"])[2]".
+[INFO ] 2025-06-23 14:07:15.617 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-06-23 14:07:15.698 [main] ReportManager - Click "By.xpath: (//span[@class="p-dropdown-label p-inputtext p-placeholder ng-star-inserted"])[1]".
+[INFO ] 2025-06-23 14:07:15.892 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-06-23 14:07:15.952 [main] ReportManager - Click "Amadeus".
+[INFO ] 2025-06-23 14:07:16.127 [main] ReportManager - Moved the mouse to the middle of the element.
+[INFO ] 2025-06-23 14:07:16.185 [main] ReportManager - Click "By.xpath: (//span[@class="p-dropdown-label p-inputtext p-placeholder ng-star-inserted"])[1]".

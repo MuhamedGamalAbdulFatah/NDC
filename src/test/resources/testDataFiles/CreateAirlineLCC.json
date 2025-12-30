@@ -1,0 +1,12 @@
+[
+  {
+    "AirlineCode": "012",
+    "AirlineName": "DemoDemo",
+    "Alliance": "Star Allince",
+    "AirlineType": "LCC",
+    "NetworkType": "International",
+    "CountryPOS": "Egypt",
+    "BranchPOS": "Mansoura",
+    "RestrictedAgencies":"BadrAgency"
+  }
+]
